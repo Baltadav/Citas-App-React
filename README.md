@@ -1,6 +1,6 @@
 ## Pagina de citas veterinarias
 
-Deploy : https://app.netlify.com/sites/ecstatic-edison-d032c2/overview
+Deploy : https://ecstatic-edison-d032c2.netlify.app/
 
 Curso: React, de www.codigoconjuan.com
 
