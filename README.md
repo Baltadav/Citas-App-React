@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Pagina de citas veterinarias
+
+Deploy : https://app.netlify.com/sites/ecstatic-edison-d032c2/overview
+
+Curso: React, de www.codigoconjuan.com
+
+
+
+
+
+
+
 
 ## Available Scripts
 
